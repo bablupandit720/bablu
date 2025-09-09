@@ -7,4 +7,4 @@ elif bit == '32bit':
     os.system('chmod +x pandit32')
     os.system('./pandit32')
 else:
-    print('device not supported')😃👿🐐🗝️👿😭🥺👑😭🥺👑🥺🐐👿🐐🥺👑🐐🥺👑🚩😔👑🚩🤣👑🎑🤣👑🎑🤣👑🎑🤣😚🎑😢🤣susjtsyjsyksyksyksuksyksyksyksyksymdhnzgnsgmzhm😈🌋😁⭕🌋😁⭕😁🌋🌟🙄⭕😞🙄⭕😞🙄⭕😞😥Ⓜ️🌋🙄⭕🌟🙄⭕😁💗😁⭕
+    print('device not supported')
