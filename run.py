@@ -1,10 +1,7 @@
-import os,sys,platform
-bit = platform.architecture()[0]
-if bit == '64bit':
-    os.system('chmod +x pandit')
-    os.system('./pandit')
-elif bit == '32bit':
-    os.system('chmod +x pandit32')
-    os.system('./pandit32')
-else:
-    print('device not supported')
+fififififififigigigigofidtsydohogicuxycicu
+jfdydrkztfobkxtkdtjsrjstjzkyxykztjzyk
+🧳💝😃😘🙏😚😘🚩😚👿😔😚😘💕😚🤭🚩🎑🤭🚩🎑
+£(5£85£58£66)"7)_)6£5)£7/
+(5_5("6)"5(£6)"+(5"5("+5£(5(6
+👍👍👍👍😁🥺👍🥺😁👍👍💗🌟👍🌟😁💖💞💞💗🩸💖👥🧠💖👤🩸💔👤👂💔👤👂💋👤👃
+Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️🤭Ⓜ️😥😥Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️Ⓜ️
